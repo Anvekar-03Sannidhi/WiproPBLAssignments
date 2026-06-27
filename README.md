@@ -1,5 +1,5 @@
-# Wipro Data Science with Python - PBL Assignments
-
+# Wipro Talent Next Data Science with Python - PBL Assignments
+Batch 2027
 Welcome to my **Wipro Project-Based Learning (PBL)** repository.
 
 This repository contains all my **Data Science with Python** assignments, practice programs, and mini-projects completed as part of the Wipro PBL program. It serves as a record of my learning journey and progress in Python and Data Science.
