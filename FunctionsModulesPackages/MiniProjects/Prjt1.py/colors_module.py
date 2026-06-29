@@ -1,0 +1,9 @@
+def sort_colors(color_string):
+
+    colors = color_string.split("-")
+
+    colors.sort()
+
+    result = "-".join(colors)
+
+    return result

@@ -1,0 +1,5 @@
+Hello world!
+This is a sample file used for IO assignment demos.
+It contains several words, some repeated words like sample and file.
+The longestwordhereislonger than others.
+Alex appears here and Alex appears again.
